@@ -2,8 +2,8 @@
 module.exports = {
   title: 'Logseq Documentation',
   tagline: 'A privacy-first, open-source platform for knowledge sharing and management.',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://ChrisLasar.github.io',
+  baseUrl: '/logseq-doc/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -13,7 +13,7 @@ module.exports = {
     navbar: {
       title: 'Logseq Docs',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Logseq Logo',
         src: 'img/logseq-logo.png',
       },
       items: [
@@ -25,7 +25,7 @@ module.exports = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/ChrisLasar/logseq-doc',
           label: 'GitHub',
           position: 'right',
         },
@@ -85,13 +85,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/ChrisLasar/logseq-doc/edit/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            'https://github.com/ChrisLasar/logseq-doc/edit/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
