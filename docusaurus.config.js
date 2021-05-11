@@ -21,7 +21,7 @@ module.exports = {
           type: 'doc',
           docId: 'intro',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Docs',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
@@ -38,8 +38,20 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
+              label: 'Tutorials',
+              to: '/docs/tutorial/intro',
+            },
+            {
+              label: 'How-tos',
+              to: '/docs/how-to/intro',
+            },
+            {
+              label: 'Explanations',
+              to: '/docs/explanation/intro',
+            },
+            {
+              label: 'References',
+              to: '/docs/reference/intro',
             },
           ],
         },
@@ -74,7 +86,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} No One, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Community of Logseq. Built with ❤️ and Docusaurus.`,
     },
   },
   presets: [
