@@ -1,1 +1,0 @@
-(self.webpackChunklogseq_doc=self.webpackChunklogseq_doc||[]).push([[437],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/logseq-doc/blog/welcome"},{"title":"Hello","permalink":"/logseq-doc/blog/hello-world"},{"title":"Hola","permalink":"/logseq-doc/blog/hola"}]}')}}]);
