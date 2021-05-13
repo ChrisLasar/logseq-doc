@@ -42,7 +42,7 @@ module.exports = {
               to: '/docs/tutorial/intro',
             },
             {
-              label: 'How-tos',
+              label: 'How-To´s',
               to: '/docs/how-to/intro',
             },
             {
