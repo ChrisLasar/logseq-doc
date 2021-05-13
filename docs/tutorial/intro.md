@@ -12,4 +12,6 @@ According to the ["Grand Unified Theory of Documentation"](https://documentation
 
 Feel free to contribute or to extend this list:
 
-- Properties
+- Installation
+- Usage of queries
+- Add an use properties

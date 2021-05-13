@@ -12,4 +12,5 @@ According to the ["Grand Unified Theory of Documentation"](https://documentation
 
 Feel free to contribute or to extend this list:
 
-- List of frequently used Queries?
+- List of frequently used queries (?)
+- References for plugin implementation
