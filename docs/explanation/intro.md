@@ -12,6 +12,6 @@ According to the ["Grand Unified Theory of Documentation"](https://documentation
 
 Feel free to contribute or to extend this list:
 
-- Explaining the difference between pages and blocks
 - Explain the usage of properties
 - Explain the different kinds of installations (app, online, self-hosted, ...)
+- Backlinks
