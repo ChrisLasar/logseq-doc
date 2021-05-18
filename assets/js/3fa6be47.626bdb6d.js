@@ -1,1 +1,0 @@
-(self.webpackChunklogseq_doc=self.webpackChunklogseq_doc||[]).push([[437],{6353:function(s){"use strict";s.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Why I suggest to use docusaurus","permalink":"/logseq-doc/blog/why-docusaurus"}]}')}}]);
